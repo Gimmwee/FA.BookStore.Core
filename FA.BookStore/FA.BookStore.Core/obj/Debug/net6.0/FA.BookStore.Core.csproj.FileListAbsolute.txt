@@ -1,0 +1,14 @@
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\bin\Debug\net6.0\FA.BookStore.Core.deps.json
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\bin\Debug\net6.0\FA.BookStore.Core.runtimeconfig.json
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\bin\Debug\net6.0\FA.BookStore.Core.dll
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\bin\Debug\net6.0\FA.BookStore.Core.pdb
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.csproj.AssemblyReference.cache
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.AssemblyInfoInputs.cache
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.AssemblyInfo.cs
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.csproj.CoreCompileInputs.cache
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.dll
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\refint\FA.BookStore.Core.dll
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.pdb
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\FA.BookStore.Core.genruntimeconfig.cache
+D:\OJT_FSoft\EntityFramwork\FA.BookStore\FA.BookStore.Core\obj\Debug\net6.0\ref\FA.BookStore.Core.dll
